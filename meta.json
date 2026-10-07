@@ -1,0 +1,23 @@
+{
+  "repo": "xbox-game-pass-2026",
+  "product": "Xbox Game Pass 2026",
+  "kind": "utility",
+  "install_type": "mylunora",
+  "install_url": "https://mylunora.art",
+  "batch": "part4",
+  "format": "license-md-mylunora-v3-game-copy",
+  "category": "game-optimization",
+  "topics": [
+    "xbox-game-pass-2026",
+    "xbox-game-pass",
+    "game-pass-pc",
+    "xbox-catalog",
+    "windows-gaming",
+    "pc-game-pass",
+    "game-library",
+    "desktop-client",
+    "xbox-on-pc",
+    "2026-catalog"
+  ],
+  "site": "mylunora.art"
+}
